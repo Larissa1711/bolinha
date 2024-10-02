@@ -1,6 +1,6 @@
 let cor;
-let posicaoHorizontal; // x
-let posicaoVertical; // y
+let posicaoHorizontal;
+let posicaoVertical; 
 
 function setup() {
   createCanvas(400, 400);
