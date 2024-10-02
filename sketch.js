@@ -1,4 +1,4 @@
-# bolinhalet cor;
+let cor;
 let posicaoHorizontal; // x
 let posicaoVertical; // y
 
